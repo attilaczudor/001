@@ -9,18 +9,40 @@ display: inline-block;
 font-size: 16px;
 }
 
-.container {
-margin: 100px;
-}
 
 h1 {
     display: block;
     font-size: 2em;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
     font-weight: bold;
 }
 
 p {
 
+}
+
+.PortfolioHighlight {
+
+padding-top: 100px;
+
+}
+
+.PortfolioHighlightImage {
+
+height: 300px;
+width: 100%;
+background-color: grey;
+
+}
+
+.HeaderHome {
+width: 100%;
+background-color: grey;
+}
+
+.container {
+position: center;
+width: 80%;
+background-color: yellow;
 }
